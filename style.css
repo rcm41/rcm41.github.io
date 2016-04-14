@@ -1,0 +1,161 @@
+.home-title {
+    height: 75px;
+    width: 950px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2 2 2 2;
+}
+
+.menu-bar {
+    background-color: green;
+    height: 50px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2 2 2 2;
+}
+.home-main-image {
+    background-color: fuchsia;
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("images/olives-on-branch.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+.main-box {
+    background-color: red;
+    height: 350px;
+    width: 950px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 2 2 2 2;
+}
+.varieties {
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 25px 50px 50px; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ), 
+    url("images/mixed-olives-in-bowl.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+.uses {
+    background-color: burlywood;
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 25px 50px 25px;
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ),  url(images/chopped-olive-in-salad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px white solid;
+   
+}
+.locations {
+    background-color: skyblue;
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 50px 50px 25px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ),  url(images/painted-globe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+.main-page-olive-box-title {
+    text-align: center;
+    color: white;
+}
+.variety1 {
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 25px 50px 50px; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ), 
+    url("images/black-olives.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+.variety2 {
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 25px 50px 50px; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ), 
+    url("images/green_olives.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+.variety3 {
+    height: 250px;
+    width: 246px;
+    float: left;
+    margin: 50px 25px 50px 50px; 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+        ), 
+    url("images/black-olives.JPG"); /*replace image with other olive type*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+.variety-text {
+    height: 250px;
+    width: 517px;
+    float: left;
+    margin: 50px 50px 50px 25px;
+    border: 2px solid white;
+    background-color: yellow;
+    
+}
+
+.footer-bar {
+    background-color: yellowgreen;
+    height: 50px;
+    width: 954px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2 2 2 2;
+}
+
+
+
+body {
+    background-color: gainsboro;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    
+}
